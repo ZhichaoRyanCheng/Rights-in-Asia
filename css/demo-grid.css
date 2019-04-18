@@ -104,6 +104,10 @@
 	justify-self: end;
 }
 
+/* #malaysianWomen {
+	height: calc(var(--pieces-width) * 1.3157);
+} */
+
 .grid .piece {
 	pointer-events: none;
 	filter: grayscale(1);
