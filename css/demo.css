@@ -58,10 +58,10 @@ a:focus {
 /* Icons */
 .icon {
 	display: block;
-	width: 1.5em;
-	height: 1.5em;
+	width: 5em;
+	height: 3em;
 	margin: 0 auto;
-	fill: currentColor;
+	fill: green;
 }
 
 /* Page Loader */
@@ -196,6 +196,7 @@ a:focus {
 }
 
 .demo--current {
+	color:green;
 	border-color: currentColor;
 }
 
