@@ -22,7 +22,7 @@
 
 .content__header {
 	display: flex;
-	color: yellow;
+	color: #ffc712;
 }
 
 .content__title {
@@ -54,6 +54,7 @@
 	background-size: 100% auto;
 	background-repeat: no-repeat;
 	background-position: 0 0;
+		border-radius:30px;
 }
 
 .piece {
@@ -67,10 +68,11 @@
 
 .menu__item {
 	font-size: 1.7vw;
+
 }
 
 .menu__item:not(:last-child)::after {
-	content: ' // ';
+	content: ' ';
 }
 
 .menu__item span {
