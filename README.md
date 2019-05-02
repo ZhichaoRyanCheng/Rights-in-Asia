@@ -2,7 +2,6 @@
 
 A set of experiments with an animated image pieces effect where an image gets shattered into rectangular fragments. Powered by [anime.js](http://anime-js.com/).
 
-![Animated Image Pieces](https://tympanus.net/codrops/wp-content/uploads/2017/07/AnimatedImagePieces_Featured.jpg)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=31849)
 
